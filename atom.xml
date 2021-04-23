@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sduyezy.github.io/LeafJam/</id>
+    <id>https://leafjam.homepage/</id>
     <title>LeafJam</title>
-    <updated>2021-04-23T07:23:25.307Z</updated>
+    <updated>2021-04-23T07:34:13.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sduyezy.github.io/LeafJam/"/>
-    <link rel="self" href="https://sduyezy.github.io/LeafJam/atom.xml"/>
+    <link rel="alternate" href="https://leafjam.homepage/"/>
+    <link rel="self" href="https://leafjam.homepage/atom.xml"/>
     <subtitle>因为不断积累起这样小小的一步，才会有所谓的未来嘛。</subtitle>
-    <logo>https://sduyezy.github.io/LeafJam/images/avatar.png</logo>
-    <icon>https://sduyezy.github.io/LeafJam/favicon.ico</icon>
+    <logo>https://leafjam.homepage/images/avatar.png</logo>
+    <icon>https://leafjam.homepage/favicon.ico</icon>
     <rights>All rights reserved 2021, LeafJam</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://sduyezy.github.io/LeafJam/post/hello-gridea/</id>
-        <link href="https://sduyezy.github.io/LeafJam/post/hello-gridea/">
+        <id>https://leafjam.homepage/post/hello-gridea/</id>
+        <link href="https://leafjam.homepage/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
